@@ -1,0 +1,14 @@
+{
+  "name": "dxfer",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dxf-writer": "^1.18.4"
+  }
+}
